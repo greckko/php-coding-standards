@@ -1,0 +1,7 @@
+{
+    "name": "tapp/php-coding-standards",
+    "description": "testing",
+    "require": {
+        "php": ">=7.4"
+    }
+}
